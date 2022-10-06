@@ -1,0 +1,15 @@
+#survey-form {
+  margin: auto;
+  width: fit-content;
+  height: auto;
+  background-color: rgb(139, 82, 182);
+  padding: 25px;
+}
+
+label {
+    display: flex;
+    flex-direction: row;
+}
+
+body {
+}
