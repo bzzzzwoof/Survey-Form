@@ -1,0 +1,23 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#28302b",
+        "activityBar.background": "#28302b",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#7040bf",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#28302b",
+        "statusBar.background": "#111412",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#28302b",
+        "statusBarItem.remoteBackground": "#111412",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#111412",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#11141299",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#111412",
+    "livePreview.defaultPreviewPath": "c:\\Users\\Boyoyo\\Desktop\\Survey Form\\index.html"
+}
